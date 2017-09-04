@@ -1,0 +1,64 @@
+{
+    "Questions": [
+                  
+                  {
+                  "question_type": "4",
+                  "points": "12",
+                  "duration_in_seconds": "10",
+                  "question": "Under 12 month-old, babies should eat freshwater fish?",
+                  "negative_points": "5",
+                  "Answer": "1"
+                  },
+                  {
+                  "points": "10",
+                  "Answer": "0",
+                  "duration_in_seconds": "20",
+                  "question": "Which food category is not best for babies?",
+                  "negative_points": "5",
+                  "question_type": "1",
+                  "options": [
+                              "Seafood",
+                              "Vegetables",
+                              "Breast Milk",
+                              "Everything here is good"
+                              ]
+                  },
+                  {
+                  "points": "10",
+                  "Answer": "0",
+                  "duration_in_seconds": "20",
+                  "question": "At what age you begin to feed your baby the supplements?",
+                  "negative_points": "5",
+                  "question_type": "1",
+                  "options": [
+                              "6 months",
+                              "12 moths",
+                              "18 moths",
+                              "Unneccessary"
+                              ]
+                  },
+                  {
+                  "points": "10",
+                  "Answer": "0",
+                  "picture_or_video_name": "ironrich.jpg",
+                  "duration_in_seconds": "20",
+                  "question": "Liver is iron-rich food. Which below is not high in iron?",
+                  "negative_points": "5",
+                  "question_type": "2",
+                  "options": [
+                              "Chow-Mein",
+                              "Broccoli",
+                              "Bok-Choy",
+                              "Soy Beans"
+                              ]
+                  },
+                  {
+                  "question_type": "4",
+                  "points": "12",
+                  "duration_in_seconds": "10",
+                  "question": "You should feed the supplementary food in the morning since you can take him/her to hospital if something goes wrong?",
+                  "negative_points": "5",
+                  "Answer": "1"
+                  }
+                  ]
+}

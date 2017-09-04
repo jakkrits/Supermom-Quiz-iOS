@@ -1,0 +1,100 @@
+{
+  "Questions": [
+    {
+      "points": "10",
+      "Answer": "0",
+      "picture_or_video_name": "jolie.jpg",
+      "correct_ans_explanation": "In addition to being a hands-on mom to six kids, Angelina Jolie acts and directs, promotes humanitarian causes that help other children around the world, and always manages to look sophisticated and drop-dead sexy when appropriate",
+      "question": "Who is this?",
+      "negative_points": "5",
+      "duration_in_seconds": "20",
+      "question_type": "2",
+      "options": [
+        "Jolie",
+        "Julie",
+        "July",
+        "Jennifer"
+      ]
+    },
+    {
+      "points": "10",
+      "Answer": "0",
+      "picture_or_video_name": "jada.jpg",
+      "correct_ans_explanation": "Actress, producer, and singer (she had a metal band at one point!) Jada Pinkett Smith is definitely a role model for her kids. Jaden and Willow are both following in their famous parents’ footsteps—taking Hollywood by storm and inheriting Mom’s cool, edgy fashion sense.",
+      "question": "Who is this?",
+      "negative_points": "5",
+      "duration_in_seconds": "20",
+      "question_type": "2",
+      "options": [
+        "Jada",
+        "Tara",
+        "Jata",
+        "Jeanne"
+      ]
+    },
+    {
+      "points": "10",
+      "Answer": "0",
+      "picture_or_video_name": "Katie.jpg",
+      "correct_ans_explanation": "Katie Holmes remains one of the chicest moms in entertainment. Proof: her upscale fashion line, Holmes & Yang, and her fashion-forward mini-me, Suri, who arguably has a better wardrobe than most adults.",
+      "duration_in_seconds": "20",
+      "question": "Do you know who is this?",
+      "negative_points": "5",
+      "question_type": "2",
+      "options": [
+        "Katie Holmes",
+        "Kate Winston",
+        "Winona Ryder",
+        "Cate Blanchett"
+      ]
+    },
+    {
+      "points": "10",
+      "Answer": "0",
+      "picture_or_video_name": "sarah.jpg",
+      "duration_in_seconds": "20",
+      "question": "Who's this famous person?",
+      "correct_ans_explanation": "Although Carrie Bradshaw wasn’t ready for motherhood with Mr. Big, style icon Sarah Jessica Parker has happily embraced the title with three children of her own.",
+      "negative_points": "5",
+      "question_type": "2",
+      "options": [
+        "Sarah Jessica Parker",
+        "Sarah Pailin",
+        "Julia Roberts",
+        "Rachel McAdams"
+      ]
+    },
+    {
+      "points": "10",
+      "Answer": "0",
+      "picture_or_video_name": "sienna.jpg",
+      "duration_in_seconds": "20",
+      "question": "Do you know who she is?",
+                 "correct_ans_explanation": "New mom Sienna Miller knows how to make a stroller the most stylish accessory ever—just add a cropped fur coat, fun sunglasses, and leopard smoking shoes. We cannot wait to see baby Marlowe’s fashion future!",
+      "negative_points": "5",
+      "question_type": "2",
+      "options": [
+        "Sienna Miller",
+        "Serena Williams",
+        "Joanna Lumley",
+        "Hillary Clinton"
+      ]
+    },
+    {
+      "points": "10",
+      "Answer": "0",
+      "picture_or_video_name": "jenlo.jpg",
+      "duration_in_seconds": "20",
+      "question": "Identify this famous personality.",
+                 "correct_ans_explanation": "The fact that Jennifer Lopez scored her twins Max and Emme a freakin’ Gucci campaign is enough to give any Hollywood mom a stylish title. Her fashion and beauty empire and portfolio of legendary red-carpet moments don’t hurt though.",
+      "negative_points": "5",
+      "question_type": "2",
+      "options": [
+        "Jennifer Lopez",
+        "Salma Hayek",
+        "Penélope Cruz",
+        "Genesis Rodriguez"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "Categories": [
+    {
+      "timer_required": true,
+      "category_id": "1",
+      "category_name": "BreatFeeding",
+      "leaderboard_id": "bestBreast_leaderboard_id",
+      "category_description": "Let's see if you know something about breastfeeding!",
+      "category_image_path": "Icon_Breastfeeding.png",
+      "category_questions_max_limit": "4",
+      "productIdentifier": ""
+    },
+    {
+      "timer_required": false,
+      "category_id": "2",
+      "category_name": "Supplementary Food",
+      "leaderboard_id": "supplementFood_leaderboard_id",
+      "category_description": "Do you know how to feed supplements to your baby?",
+      "category_image_path": "foodSupplement.jpg",
+      "category_questions_max_limit": "4",
+      "productIdentifier": ""
+    },
+    {
+      "timer_required": true,
+      "category_id": "3",
+      "category_name": "People",
+      "productIdentifier": "com.appillustrator.supermomquiz.famouspeople",
+      "category_description": "How many of you know about these famous people?",
+      "leaderboard_id": "peoplequiz_leaderboard_id",
+      "category_image_path": "famousmom.jpg",
+      "category_questions_max_limit": "4"
+    },
+    {
+      "timer_required": true,
+      "category_id": "4",
+      "category_name": "Foody",
+      "productIdentifier": "com.appillustrator.supermomquiz.foody",
+      "category_description": "Do you know how to cook your baby's foodies?",
+      "leaderboard_id": "foody_leaderboard_id",
+      "category_image_path": "foodIcon.png",
+      "category_questions_max_limit": "4"
+    }
+  ]
+}

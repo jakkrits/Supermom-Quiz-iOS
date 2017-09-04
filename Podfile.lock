@@ -1,0 +1,35 @@
+PODS:
+  - Bolts/Tasks (1.5.1)
+  - ChartboostSDK (6.1.0)
+  - CryptoSwift (0.2.2)
+  - Parse (1.11.0):
+    - Bolts/Tasks (~> 1.5)
+  - RevMob (7.5.5)
+  - SSZipArchive (1.0.1)
+
+DEPENDENCIES:
+  - ChartboostSDK
+  - CryptoSwift (from `https://github.com/krzyzanowskim/CryptoSwift`, branch `master`)
+  - Parse
+  - RevMob
+  - SSZipArchive
+
+EXTERNAL SOURCES:
+  CryptoSwift:
+    :branch: master
+    :git: https://github.com/krzyzanowskim/CryptoSwift
+
+CHECKOUT OPTIONS:
+  CryptoSwift:
+    :commit: 8679ad09c1e84da099076596b0715c7ec376f7dc
+    :git: https://github.com/krzyzanowskim/CryptoSwift
+
+SPEC CHECKSUMS:
+  Bolts: a12663244b1d3351c738882e71902fc74db54f64
+  ChartboostSDK: 93c7ded3b581f9b321538f7d99148562399151c1
+  CryptoSwift: d382228d6301c09474132417878a741c2a2e68cd
+  Parse: 886af46a0a677402f6374bb97ac212e795f70afe
+  RevMob: 942afe5ec2a015939c6f5d0b74c0febbfc586884
+  SSZipArchive: 5f30a0af2cb3d48c0ff83b1e18029f7041ac3c38
+
+COCOAPODS: 0.39.0

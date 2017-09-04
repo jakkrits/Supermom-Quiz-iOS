@@ -1,0 +1,73 @@
+{
+    "Questions": [
+                  
+                  {
+                  "question_type": "4",
+                  "points": "10",
+                  "duration_in_seconds": "20",
+                  "question": "Very rich in proteins and minerals and also loaded with antibodies to aid the infant's immune system. This is Colostrum?",
+                  "negative_points": "5",
+                  "Answer": "1"
+                  },
+                  {
+                  "points": "25",
+                  "Answer": "0",
+                  "duration_in_seconds": "15",
+                  "question": "How do you know if your baby getting enough breat milk?",
+                  "negative_points": "7",
+                  "question_type": "1",
+                  "options": [
+                              "All of these",
+                              "Slow weight gain",
+                              "Pass little urine",
+                              "Small bowel movements"
+                              ],
+                  "correct_ans_explanation": "The average breastfed baby doubles birth weight by 3-4 months. By one year, the typical breastfed baby will weigh about 2 1/2 – 3 times birth weight"
+                  },
+                  {
+                  "points": "15",
+                  "Answer": "0",
+                  "picture_or_video_name": "breastfeeding_1.jpg",
+                  "duration_in_seconds": "15",
+                  "question": "If you breastfeeding, how much calories you can burn per day on the average?",
+                  "negative_points": "2",
+                  "question_type": "2",
+                  "options": [
+                              "Around 500",
+                              "220 - 300",
+                              "90 - 190",
+                              "More than 2,000 depends on baby's weight"
+                              ]
+                  },
+                  {
+                  "points": "15",
+                  "Answer": "0",
+                  "picture_or_video_name": "crackedNipple.jpg",
+                  "duration_in_seconds": "15",
+                  "question": "Why breast milk sometimes pinkish?",
+                  "negative_points": "2",
+                  "question_type": "2",
+                  "options": [
+                              "Cracked nipple",
+                              "Blood from baby's mouth",
+                              "None of these",
+                              "Mother's blood pressure is too high"
+                              ]
+                  },
+                  {
+                  "points": "15",
+                  "Answer": "0",
+                  "picture_or_video_name": "switchingside.jpg",
+                  "question": "How do you keep your breasts equally stimulated",
+                  "negative_points": "2",
+                  "duration_in_seconds": "99",
+                  "question_type": "2",
+                  "options": [
+                              "Alternating sides",
+                              "Sleep face down",
+                              "None of these",
+                              "No need to stimulate"
+                              ]
+                  }
+            ]
+}

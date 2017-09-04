@@ -1,0 +1,10 @@
+EMBEDDED_CONTENT_CONTAINS_SWIFT = YES
+FRAMEWORK_SEARCH_PATHS = $(inherited) "$(PODS_ROOT)/RevMob" "${PODS_ROOT}/ChartboostSDK"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/ChartboostSDK" "${PODS_ROOT}/Headers/Public/RevMob"
+LD_RUNPATH_SEARCH_PATHS = $(inherited) '@executable_path/Frameworks' '@loader_path/Frameworks'
+OTHER_CFLAGS = $(inherited) -iquote "$CONFIGURATION_BUILD_DIR/Bolts.framework/Headers" -iquote "$CONFIGURATION_BUILD_DIR/CryptoSwift.framework/Headers" -iquote "$CONFIGURATION_BUILD_DIR/Parse.framework/Headers" -iquote "$CONFIGURATION_BUILD_DIR/SSZipArchive.framework/Headers" -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/ChartboostSDK" -isystem "${PODS_ROOT}/Headers/Public/RevMob"
+OTHER_LDFLAGS = $(inherited) -ObjC -framework "AVFoundation" -framework "AdSupport" -framework "Bolts" -framework "Chartboost" -framework "CoreData" -framework "CoreGraphics" -framework "CoreMedia" -framework "CryptoSwift" -framework "Parse" -framework "QuartzCore" -framework "RevMobAds" -framework "SSZipArchive" -framework "StoreKit" -framework "SystemConfiguration" -weak_framework "AdSupport" -weak_framework "StoreKit"
+OTHER_SWIFT_FLAGS = $(inherited) "-D" "COCOAPODS"
+PODS_FRAMEWORK_BUILD_PATH = $(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Pods
+PODS_ROOT = ${SRCROOT}/Pods

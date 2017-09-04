@@ -1,0 +1,100 @@
+{
+  "Questions": [
+                {
+                "points": "10",
+                "Answer": "0",
+                "picture_or_video_name": "Food1.jpg",
+                "duration_in_seconds": "20",
+                "question": "Baby Guacamole is for what age?",
+                "correct_ans_explanation": "1 avocado -- 1/2 fl oz tomato juice -- little fresh coriander (cilantro), chopped -- little ground cumin -- Mash the avocado, then stir in the remaining ingredients and serve as a dip.",
+                "negative_points": "5",
+                "question_type": "2",
+                "options": [
+                            "8 months+",
+                            "No avocado!",
+                            "24 months+",
+                            "3 months+"
+                            ]
+                },
+                {
+                "points": "10",
+                "Answer": "0",
+                "picture_or_video_name": "Food2.jpg",
+                "duration_in_seconds": "20",
+                "question": "Pureed Baby Food Recipe – Tender Carrots: You want to choose what carrots?",
+                "correct_ans_explanation": "Choose large, older carrots – these are actually richer in nutrients than baby carrots. Just trim the ends and slice. Then steam, boil or microwave and puree to perfection!",
+                "negative_points": "5",
+                "question_type": "2",
+                "options": [
+                            "large & older",
+                            "small & young",
+                            "mixed",
+                            "No carrots"
+                            ]
+                },
+                {
+                "points": "10",
+                "Answer": "0",
+                "picture_or_video_name": "Food3.jpg",
+                "duration_in_seconds": "20",
+                "question": "Sweet potato and melon mash: Other than these two ingredients, you can add...",
+                "correct_ans_explanation": "In a food processor, blend together the a cup of melon and a cup of sweet potato. Add 1/4 cup of yogurt and blend for a further 30 secs. Sprinkle with a little powdered ginger (optional) and refrigerate.",
+                "negative_points": "5",
+                "question_type": "2",
+                "options": [
+                            "Natural Yogurt",
+                            "Milk",
+                            "Cheese",
+                            "Strawberry"
+                            ]
+                },
+                {
+                "points": "10",
+                "Answer": "0",
+                "picture_or_video_name": "Food4.jpg",
+                "duration_in_seconds": "20",
+                "question": "How do you serve banana puree?",
+                "correct_ans_explanation": "Mash banana with a fork, adding 1 tablespoon water, formula, or breast milk to reach desired consistency. Serve immediately.",
+                "negative_points": "5",
+                "question_type": "2",
+                "options": [
+                            "Immediately",
+                            "After air-dried",
+                            "5 Minutes",
+                            "After refridgerated"
+                            ]
+                },
+                {
+                "points": "10",
+                "Answer": "0",
+                "picture_or_video_name": "Food5.jpg",
+                "duration_in_seconds": "20",
+                "question": "What is this puree?",
+                "correct_ans_explanation": "Peas may thicken slightly and stick together after they're refrigerated. To loosen them, stir in a small amount of water, formula, or breast milk when reheating.",
+                "negative_points": "5",
+                "question_type": "2",
+                "options": [
+                            "Green Peas",
+                            "Green Beans",
+                            "Broccoli",
+                            "Spinach"
+                            ]
+                },
+                {
+                "points": "10",
+                "Answer": "0",
+                "picture_or_video_name": "Food6.jpg",
+                "duration_in_seconds": "20",
+                "question": "This puree could make you nervous when you see your baby's dirty diaper",
+                "correct_ans_explanation": "The bright-red color of beets is appealing to babies, but be careful since this vegetable easily stains clothes. If you notice that subsequent diapers take on a reddish tint, don’t be alarmed; it’s normal for babies who eat beets.",
+                "negative_points": "5",
+                "question_type": "2",
+                "options": [
+                            "Beet Puree",
+                            "Banana Puree",
+                            "Mango Puree",
+                            "Apple Puree"
+                            ]
+                }
+  ]
+}
